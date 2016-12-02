@@ -47,7 +47,10 @@
 
 - [ ] 《数据挖掘导论》 2-3章完成
 	- 了解数据，特征，数据的可能性相关知识
+
 ###第五周
+开始进入工程相关
+
 #### 阅读相关文章，了解数据挖掘和机器学习入门
 - [ ] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [ ] [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
@@ -78,7 +81,6 @@
 
 - [ ] 《利用Python进行数据分析》   4-7章
 - [ ] 课后习题检查
-
 ###第八周
 
 - [ ] 《利用Python进行数据分析》   8-11章
