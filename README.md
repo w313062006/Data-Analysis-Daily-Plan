@@ -27,21 +27,24 @@
 -  [Datacamp](https://www.datacamp.com/courses?learn=python_programming)(学习Python/R的网站，R教程不错)
 ##第四部分 SQL
 - Hand的Sql教程
-
 ###第一周
+
 - [ ] 《商务与经济统计学》 前四章完成
 	- 统计思维和概率相关
 - [ ] 笔记检查通关
 ###第二周
+
 - [ ] 《商务与经济统计学》 5-9章完成
 	- 分布，置信空间相关
 - [ ] 笔记检查通关
 - [ ] 解锁神秘奖励 1
 ###第三周
+
 - [ ] 《商务与经济统计学》 10-12章完成
 	- 线性非线性逻辑，模型相关（了解了模型就算入了数据挖掘的门）
 - [ ] 笔记检查通关
 ###第四周
+
 - [ ] 《数据挖掘导论》 2-3章完成
 	- 了解数据，特征，数据的可能性相关知识
 ###第五周
@@ -65,12 +68,12 @@
 - [ ] [Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.hhcb9fxk1)
 - [ ] 解锁神秘奖励 2
 ###第六周
+
 - [ ] [Codecademy](https://www.codecademy.com/learn/python)  
 	- 第一部分 Python Syntax部分
 	- 第二部分 Strings and Console Output
 - [ ] 《利用Python进行数据分析》   1-3章
 - [ ]  课后习题检查
-
 ###第七周
 
 - [ ] 《利用Python进行数据分析》   4-7章
